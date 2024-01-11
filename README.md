@@ -1,2 +1,2 @@
-# project-23
-information about previous project
+# Capstone Project - Django
+<sub>Level 2 Task 23</sub>
