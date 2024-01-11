@@ -43,13 +43,25 @@ If you look on the navigation bar of the website, you will see links to other we
     * Log in
     * Sign up
 
-The home page is the current page that you are on. The Blog consists of post, posted by the admin, about changes, new addtions, and removals of any book or features on the website.
+The home page is the current page that you are on. 
 
-![MVC Framework Diagram](https://github.com/Icyfire315/Project-23/blob/main/images/MVC%20Framework%20Diagram.png)
+![Home page](https://github.com/Icyfire315/project-23/blob/main/images/homepage.PNG) <br>
+
+The Blog consists of post, posted by the admin, about changes, new addtions, and removals of any book or features on the website.
+
+![Blog page](https://github.com/Icyfire315/project-23/blob/main/images/blogpage.PNG) <br>
 
 The Library is where current and new books will be made available to user who have created accounts.
 
-The Sign in page is where the user creates an user account and the Log in page is where users, who have created accounts, log into their accounts.
+![Library page](https://github.com/Icyfire315/project-23/blob/main/images/librarypage.PNG) <br>
+
+The Sign in page is where the user creates an user account. The Log in page is where users, who have created accounts, log into their accounts.
+
+![Signup page](https://github.com/Icyfire315/project-23/blob/main/images/sign_up_page.PNG) <br>
+
+The Log in page is where users, who have created accounts, log into their accounts.
+
+![Login page](https://github.com/Icyfire315/project-23/blob/main/images/login_page.PNG) <br>
 
 The Catalogue is a dropdown link, the navigation items do not link to another webpages. The only pages available for you to access is Home, Blog, Sign up, and Log in.
 
